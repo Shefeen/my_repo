@@ -1,0 +1,3 @@
+NumPy == 1.21
+pendulum >= 2.0.5
+pillow ~= 8.3.1
